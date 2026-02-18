@@ -13,11 +13,11 @@ An Arduino-based proximity monitoring system designed to detect objects in real-
 The project follows a complete design flow, from the initial circuit schematic to the final physical prototype on a breadboard.
 
 ### Circuit Schematic
-Designed to ensure correct interfacing between the MCU and high-current peripherals (Buzzer/LCD).
+<img width="967" height="709" alt="image" src="https://github.com/user-attachments/assets/c0a13fd4-c474-40d8-9f5c-77bda8cf5eff" />
 
 
 ### Physical Prototype
-The final assembly demonstrating real-time hardware-software synchronization.
+<img width="1868" height="1404" alt="image" src="https://github.com/user-attachments/assets/6d263efd-f4a4-4b7e-b0c2-49f8639c635b" />
 
 
 ## System Components
